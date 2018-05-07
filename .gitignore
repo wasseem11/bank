@@ -1,0 +1,7 @@
+#Ignire everything in the current folder
+/*
+
+#except these 3 files /folder
+!.gitignore
+!pom.xml
+!src/
